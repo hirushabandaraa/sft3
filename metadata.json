@@ -1,0 +1,6 @@
+{
+  "name": "Hirusha Bandara | A/L SFT",
+  "description": "Sri Lanka's dedicated Advanced Level Science for Technology (A/L SFT) learning platform with Hirusha Bandara — featuring class recordings, student progress analytics, timetable, and quick registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
